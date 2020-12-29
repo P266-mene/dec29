@@ -1,0 +1,1 @@
+//node()[@ lang or child::price]
